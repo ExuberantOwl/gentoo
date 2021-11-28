@@ -1,1 +1,3 @@
 # gentoo
+
+gentoo config stuff
